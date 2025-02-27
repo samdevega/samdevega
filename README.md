@@ -7,6 +7,16 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdevega&hide_border=true&hide_progress=true&theme=transparent&title_color=B0B0B0&text_color=909090" />
 </div>
+<hr />
+<p>
+<q>You do not have to know where you're going to use good design practices to get there. Good practices reveal design.</q>
+</p>
+<figcaption>
+  &mdash; Sandi Metz,
+  <br />
+  <cite><em>Practical Object-Oriented Design in Ruby</em></cite>
+</figcaption>
+<hr />
 <!--
 **samdevega/samdevega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
