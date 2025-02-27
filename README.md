@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi, I'm Samuel de Vega</h1>
-<h2 align="center">I like to build well designed web apps and work in agile teams</h2>
+<h1 align="center">👋 Hi, I'm Samuel de Vega<br /><br /></h1>
+<h2 align="center">I like to build well designed web apps and work in agile teams
+<br /><br /></h2>
+<br />
 <div align="center">
   <a href="https://www.samdevega.com"><img src="https://img.shields.io/badge/BLOG-peru?style=for-the-badge" alt="Blog" /></a>
   &nbsp;
